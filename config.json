@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-web-scraping",
+      "title": "Python Web Scraping with BeautifulSoup",
+      "description": "Fetch web pages and extract structured data using requests and BeautifulSoup.",
+      "path": "assignments/python-web-scraping",
+      "dueDate": "2026-07-05",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
